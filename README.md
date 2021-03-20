@@ -5,4 +5,5 @@
 可是，真正的真理，应该是大道至简，只需良药一剂（One Dose），就可药到病除   
 
 ## 目录  
-### [瓦尔登湖中的知识管理思想](https://github.com/linuxProber/onedose/blob/main/%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96%E4%B8%AD%E7%9A%84%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%80%9D%E6%83%B3.md)
+* [瓦尔登湖中的知识管理思想](https://github.com/linuxProber/onedose/blob/main/%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96%E4%B8%AD%E7%9A%84%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%80%9D%E6%83%B3.md)
+* [焦虑和长期主义](https://github.com/linuxProber/onedose/blob/main/%E7%84%A6%E8%99%91%E5%92%8C%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89.md)
